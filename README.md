@@ -13,4 +13,4 @@
 - 指定等级范围查询一步能合成的面具
 - 查询成本最低合成路径
 
-数据来源：https://wiki.biligame.com/persona/%E4%BA%BA%E6%A0%BC%E9%9D%A2%E5%85%B7
+数据来源：女神转生Wiki https://wiki.biligame.com/persona/%E4%BA%BA%E6%A0%BC%E9%9D%A2%E5%85%B7
