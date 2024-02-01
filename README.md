@@ -2,7 +2,7 @@
 
 ### 女神异闻录5皇家版小工具
 
-![image](https://github.com/zh1u18/p5r/assets/100653846/f6780136-f240-4c73-8159-0c215341f8a6)
+<img width="841" alt="二体处刑" src="https://github.com/zh1u18/p5r/assets/100653846/f6780136-f240-4c73-8159-0c215341f8a6">
 
 ## Usage
 
