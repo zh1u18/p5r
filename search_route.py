@@ -31,12 +31,14 @@ def search_route(start, end, max_depth=3, head_num=10):
         for end in end_list:
             dfs(start, [(start, '')], 0, 1) # 初始深度设为1
         paths.sort(key=lambda x: x[1])
+        print(f'{end_final} 特殊合成方式:\n', sp[end_final], '\n')
         if len(paths) > 0:
             for idx, route in enumerate(paths):
                 if idx < head_num:
-                    print(route[0], '=', route[1], f'--特殊合成-> {end_final}')
+                    print(route[0], '=', route[1], f'-特殊合成-> {end_final}')
                 else:
                     break
+            
         else:
             print('未查找到任何路径！')
     else:      
@@ -51,4 +53,3 @@ def search_route(start, end, max_depth=3, head_num=10):
                     break
         else:
             print('未查找到任何路径！')
-    
